@@ -18,7 +18,7 @@ include '../config/koneksi.php';
 </head>
 
 <body>
-    <h2>Selamat Datang di Dashboard KAS KELAS</h2>
+    <h2>DASHBOARD KAS KELAS</h2>
     <a href="logout.php">Logout</a>
 </body>
 
